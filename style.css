@@ -1,0 +1,43 @@
+body{
+    background-color: #393e46;
+    text-align: center;
+}
+
+#main{
+    margin: 50px 20% 10% 20%;
+}
+
+h1{
+    color:#4ECCA3;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+}
+
+h3{
+    color:#4ECCA3;
+    font-family: 'Lobster', cursive;
+
+}
+
+.font{
+    font-family: 'Lobster', cursive;
+}
+
+.dice{
+    margin: 50px auto;
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+    width: 25%;
+    color: #4ECCA3;
+}
+
+
+footer{
+    color: white;
+    font-size: 1.5rem;
+}
